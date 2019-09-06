@@ -19,3 +19,16 @@ else
 printf("Big endian");
  return 0;
 }
+
+
+
+/*
+pavani@TSHYD-033:~/Desktop$ gcc endianness.c 
+pavani@TSHYD-033:~/Desktop$ ./a.out 
+Address of 0x44 = 0x7ffc54e715d8 
+Address of 0x33 = 0x7ffc54e715d9 
+Address of 0x22 = 0x7ffc54e715da 
+Address of 0x11 = 0x7ffc54e715db 
+Little endian
+
+*/
