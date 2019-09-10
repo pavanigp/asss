@@ -32,14 +32,17 @@ int main()
 pavani@TSHYD-033:~/Desktop/Mr.Teja/day4/nth$ gcc -Wall -Werror -o get_n get_n.c pavani@TSHYD-033:~/Desktop/Mr.Teja/day4/nth$ ./get_n 
 Enter number & n position::::55127
 4
-1pavani@TSHYD-033:~/Desktop/Mr.Teja/day4/nth$ ./get_n 
+1
+pavani@TSHYD-033:~/Desktop/Mr.Teja/day4/nth$ ./get_n 
 Enter number & n position::::55127
 3
-0pavani@TSHYD-033:~/Desktop/Mr.Teja/day4/nth$ ./get_n 
+0
+pavani@TSHYD-033:~/Desktop/Mr.Teja/day4/nth$ ./get_n 
 Enter number & n position::::55127
 7
-0pavani@TSHYD-033:~/Desktop/Mr.Teja/day4/nth$ ./get_n 
+0
+pavani@TSHYD-033:~/Desktop/Mr.Teja/day4/nth$ ./get_n 
 Enter number & n position::::55127
 6
-
+1
 */
